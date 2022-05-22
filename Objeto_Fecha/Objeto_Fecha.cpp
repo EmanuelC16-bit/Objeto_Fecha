@@ -11,7 +11,7 @@ class program {
         Menu st;
     public: 
         void run();
-        program ();
+        program() {}
 };
 
 int main()
